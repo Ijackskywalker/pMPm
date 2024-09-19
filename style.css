@@ -1,0 +1,44 @@
+table {
+    font-family: sans-serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #7FFFD4;
+    color: blueviolet;
+    border: 16px solid #7FFFD4;
+    border-radius: 20px;
+    
+
+}
+th {
+    font-size: 20px;
+    padding: 15px;
+}
+td {
+    background: #40E0D0;
+    padding: 15px;
+    border-radius: 15px;
+}
+body {
+    background-color: #468a73;
+}
+.b1{
+    margin: 50px 560px 50px 560px ;
+
+}
+.b2{
+    margin: 50px 500px 50px 500px ;
+
+}
+.b3{
+    margin: 50px 560px 50px 560px;
+
+}
+.b4{
+    margin: 50px 560px 50px 560px;
+
+}
+.b5{
+    margin: 50px 650px 50px 650px;
+
+}
